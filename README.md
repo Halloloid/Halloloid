@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning Rust
 - 📖 Currently Reading:
-  - Book Name 1
-  - Book Name 2
+  - Rust Documentation E-Book
+  - Designing Data-Intensive Applications E-Book
 - 💬 Ask me about **Rust,System Design...or anything [here](https://github.com/Halloloid/Halloloid/issues)**
 <!--
 **Halloloid/Halloloid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
