@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/78164ede-92b3-4b9f-af12-3c39dbe50fe2" width="500" />
-  <!-- ![ascii-animation](https://github.com/user-attachments/assets/78164ede-92b3-4b9f-af12-3c39dbe50fe2) -->
+  <img src="https://github.com/user-attachments/assets/d8e39629-658f-4040-a8d2-b665d45deb61" width="500" />
 </p>
 
 <h1 align="center">
