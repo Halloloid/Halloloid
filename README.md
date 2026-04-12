@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/25d9fef9-a529-4266-9718-feacf1742745" width="500" />
+  <img src="https://github.com/user-attachments/assets/78164ede-92b3-4b9f-af12-3c39dbe50fe2" width="500" />
+  <!-- ![ascii-animation](https://github.com/user-attachments/assets/78164ede-92b3-4b9f-af12-3c39dbe50fe2) -->
 </p>
 
 <h1 align="center">
@@ -20,5 +21,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,nodejs,react,mongodb,postgres,prisma" /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,github,redis,python" />
+</p>
 
 <hr>
