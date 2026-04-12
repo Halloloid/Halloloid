@@ -33,3 +33,16 @@
 </p>
 
 <hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=halloloid&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Halloloid's" /> <br />
+  <img width=390 src="https://leetcard.jacoblin.cool/JE1cgTdlg7?ext=heatmap" alt="Halloloid's" />
+
+</div>
+
+<hr>
+
