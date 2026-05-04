@@ -71,3 +71,10 @@
     <img src="https://raw.githubusercontent.com/Halloloid/Halloloid/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+---
+
+## Visitors Count
+<p align="center">
+  <img src="https://count.getloli.com/@Halloloid?name=Halloloid&theme=green&darkmode=1" />
+</p>
