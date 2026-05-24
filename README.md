@@ -22,6 +22,7 @@
 - 📖 Reading:
   - *Rust Book*
   - *Designing Data-Intensive Applications*
+  - *HOML*
 
 ---
 
