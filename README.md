@@ -51,18 +51,6 @@
 
 ---
 
-## ⚡ Stats
-
-<p align="center">
-  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=halloloid&theme=transparent&count_private=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img width="380" src="https://leetcard.jacoblin.cool/JE1cgTdlg7?ext=heatmap" />
-</p>
-
----
-
 ## 🐍 Contributions
 
 <p align="center">
