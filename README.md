@@ -1,69 +1,61 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d8e39629-658f-4040-a8d2-b665d45deb61" width="450" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E05A24&height=180&section=header&text=Halloloid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=backend+engineer+·+rust+·+systems&descSize=17&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+👋,+I'm+Amrut;aka+Halloloid;Backend+Engineer+in+Progress" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend Software Engineer</b> focused on building scalable, reliable, and maintainable systems.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=8b949e&center=true&vCenter=true&width=520&height=40&lines=dropped+TypeScript.+picked+up+Rust.;building+toward+ML+systems+infrastructure;DDIA+%2B+Rust+Book+%2B+HOML+in+parallel;+%E2%80%94+next" />
 
-<p align="center">
-  🚀 Currently exploring <b>Rust</b> & System Design
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/ch-amrut-prasad-patro-1b4b26329/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Halloloid/Halloloid/issues">
+  <img src="https://img.shields.io/badge/Ask%20Me%20Anything-161b22?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-## 📚 Current Focus
+</div>
 
-- 🌱 Learning: **Rust**
-- 📖 Reading:
-  - *Rust Book*
-  - *Designing Data-Intensive Applications*
-  - *HOML*
+<br/>
 
----
+```rust
+// halloloid.rs
 
-## 💬 Let's Connect
+let me = Profile {
+    from:     "mern → burned out → rust",
+    current:  "backend systems & distributed infra",
+    shipped:  ["DevBlog", "RustySnake", "brainfuck-interp"],
+    reading:  ["Rust Book", "DDIA", "HOML"],
+    building: "A Shell using Rust",  // next
+};
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ch-amrut-prasad-patro-1b4b26329/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Halloloid/Halloloid/issues">
-    <img src="https://img.shields.io/badge/Ask%20Me-1E1E1E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,nodejs,postgres,redis,mongodb,python,git" />
+</div>
 
-## 🛠️ Tech Stack
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,nodejs,react,mongodb,postgres,prisma" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Halloloid&theme=dark&hide_border=true&ring=E05A24&fire=E05A24&currStreakNum=E05A24&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,github,redis,python" />
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Halloloid&bg_color=0d1117&color=E05A24&line=E05A24&point=ffffff&area=true&area_color=2d1409&hide_border=true" />
+</div>
 
-## 🐍 Contributions
+<br/>
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Halloloid/Halloloid/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Halloloid/Halloloid/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/Halloloid/Halloloid/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
----
-
-## Visitors Count
-<p align="center">
-  <img src="https://count.getloli.com/@Halloloid?name=Halloloid&theme=green&darkmode=1" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E05A24,100:0d1117&height=100&section=footer" width="100%" />
