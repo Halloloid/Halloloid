@@ -26,7 +26,7 @@ let me = Profile {
     current:  "backend systems & distributed infra",
     shipped:  ["DevBlog", "RustySnake", "brainfuck-interp"],
     reading:  ["Rust Book", "DDIA", "HOML"],
-    building: "A Shell using Rust",  // next
+    building: ["A Shell using Rust","A Virtual Machine Using Rust"],  // next
 };
 ```
 
