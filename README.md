@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E05A24&height=180&section=header&text=Halloloid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=backend+engineer+·+rust+·+systems&descSize=17&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:E05A24&height=180&section=header&text=Halloloid&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=backend+engineer+·+systems&descSize=17&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=8b949e&center=true&vCenter=true&width=520&height=40&lines=dropped+TypeScript.+picked+up+Rust.;building+toward+ML+systems+infrastructure;DDIA+%2B+Rust+Book+%2B+HOML+in+parallel;+%E2%80%94+next" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2000&color=8b949e&center=true&vCenter=true&width=520&height=40&lines=building+toward+ML+systems+infrastructure;" />
 
 <br/>
 
