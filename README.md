@@ -25,7 +25,7 @@ let me = Profile {
     from:     "mern → burned out → rust+go",
     current:  "backend systems & distributed infra",
     shipped:  ["A Shell using Rust","A Virtual Machine Using Rust"],
-    reading:  ["Tour to Go", "DDIA"],
+    reading:  ["Let's Go", "Rust In Action","DDIA"],
     building: ["An IAM Platfrom Using Rust"],  // next
 };
 ```
@@ -33,7 +33,7 @@ let me = Profile {
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,ts,nodejs,postgres,redis,mongodb,python,git" />
+  <img src="https://skillicons.dev/icons?i=rust,go,python,postgres,redis,git" />
 </div>
 
 <br/>
