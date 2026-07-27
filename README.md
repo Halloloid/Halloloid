@@ -22,11 +22,10 @@
 // halloloid.rs
 
 let me = Profile {
-    from:     "mern → burned out → rust+go",
     current:  "backend systems & distributed infra",
     shipped:  ["A Shell using Rust","A Virtual Machine Using Rust"],
     reading:  ["Let's Go", "Rust In Action","DDIA"],
-    building: ["An IAM Platfrom Using Rust"],  // next
+    building: ["An IAM Platfrom Using Rust"],  
 };
 ```
 
