@@ -38,18 +38,6 @@ let me = Profile {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Halloloid&theme=dark&hide_border=true&ring=E05A24&fire=E05A24&currStreakNum=E05A24&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Halloloid&bg_color=0d1117&color=E05A24&line=E05A24&point=ffffff&area=true&area_color=2d1409&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Halloloid/Halloloid/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Halloloid/Halloloid/output/github-contribution-grid-snake.svg" />
