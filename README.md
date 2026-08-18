@@ -32,7 +32,7 @@ let me = Profile {
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,python,postgres,redis,git" />
+  <img src="https://skillicons.dev/icons?i=rust,python,postgres,redis,git" />
 </div>
 
 <br/>
