@@ -24,8 +24,8 @@
 let me = Profile {
     current:  "backend systems & distributed infra",
     shipped:  ["A Shell using Rust","A Virtual Machine Using Rust"],
-    reading:  ["Let's Go", "Rust In Action","DDIA"],
-    building: ["An IAM Platfrom Using Rust"],  
+    reading:  ["Rust In Action","HOML","Docker Deep Dive"],
+    building: ["An IAM Platfrom","VPN"],  
 };
 ```
 
