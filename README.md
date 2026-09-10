@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="600" alt="One Piece banner" src="https://github.com/user-attachments/assets/aa2aa8dc-15f6-408b-a464-38d1b9163837" />
+<img width="650" height="200" alt="One Piece banner" src="https://github.com/user-attachments/assets/aa2aa8dc-15f6-408b-a464-38d1b9163837" />
 
 <h2>Halloloid</h2>
 
